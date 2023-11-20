@@ -1,7 +1,7 @@
 ## About
 A barebones realtime chat application using sveltekit, express, socketio, typescript and nodemon
 
-## Initial project setup
+## How this project was initially setup
 1. Installed sveltekit using npx svelte@latest
    - demo app
    - typescript

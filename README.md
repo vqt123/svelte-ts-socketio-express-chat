@@ -1,3 +1,6 @@
+barebones realtime chat application using sveltekit, express, socketio, and typescript
+
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
